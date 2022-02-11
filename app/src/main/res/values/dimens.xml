@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Genreal_fontSize">14dp</dimen>
+    <dimen name="genreal_padding">8dp</dimen>
+    <dimen name="font_18dp">18dp</dimen>
+
+</resources>
